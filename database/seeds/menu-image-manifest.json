@@ -1,0 +1,318 @@
+{
+  "generator": "built-in image_gen",
+  "created_at": "2026-09-09",
+  "images": [
+    {
+      "id": 1,
+      "name": "法式奶油蘑菇汤",
+      "slug": "french-cream-of-mushroom-soup",
+      "old": "/menu-images/warm-soups.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: French Cream of Mushroom Soup (法式奶油蘑菇汤). Exact menu description: Slow-cooked mushrooms blended into a smooth and comforting cream soup. 蘑菇慢煮成细腻奶油浓汤，口感温润醇厚。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "french-cream-of-mushroom-soup.jpg"
+    },
+    {
+      "id": 2,
+      "name": "奶油金瓜汤",
+      "slug": "creamy-pumpkin-soup",
+      "old": "/menu-images/warm-soups.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Creamy Pumpkin Soup (奶油金瓜汤). Exact menu description: Pumpkin and cream simmered into a naturally sweet, velvety soup. 金瓜与奶油慢煮，呈现自然清甜与绵密口感。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "creamy-pumpkin-soup.jpg"
+    },
+    {
+      "id": 3,
+      "name": "意大利番茄汤",
+      "slug": "italian-tomato-soup",
+      "old": "/menu-images/warm-soups.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Italian Tomato Soup (意大利番茄汤). Exact menu description: Tomatoes and herbs simmered for a bright, balanced and appetizing soup. 番茄与香草慢煮，酸甜平衡、清新开胃。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "italian-tomato-soup.jpg"
+    },
+    {
+      "id": 4,
+      "name": "金枪鱼尼斯沙拉",
+      "slug": "tuna-ni-oise-salad",
+      "old": "/menu-images/fresh-salads.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Tuna Niçoise Salad (金枪鱼尼斯沙拉). Exact menu description: Tuna with vegetables, egg and olives in a fresh, satisfying Niçoise salad. 金枪鱼搭配时蔬、鸡蛋与橄榄，风味清爽丰富。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "tuna-ni-oise-salad.jpg"
+    },
+    {
+      "id": 5,
+      "name": "芒果大虾牛油果沙拉",
+      "slug": "mango-prawn-avocado-salad",
+      "old": "/menu-images/fresh-salads.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Mango Prawn & Avocado Salad (芒果大虾牛油果沙拉). Exact menu description: Prawns, mango and avocado combined for a fresh and gently sweet salad. 鲜虾、芒果与牛油果组合，清甜鲜嫩。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "mango-prawn-avocado-salad.jpg"
+    },
+    {
+      "id": 6,
+      "name": "蔓越莓山羊奶酪沙拉",
+      "slug": "cranberry-goat-cheese-salad",
+      "old": "/menu-images/fresh-salads.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Cranberry & Goat Cheese Salad (蔓越莓山羊奶酪沙拉). Exact menu description: Cranberries and goat cheese served with tender greens for a mellow sweet-tart balance. 蔓越莓与山羊奶酪搭配鲜嫩叶菜，酸甜柔和。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "cranberry-goat-cheese-salad.jpg"
+    },
+    {
+      "id": 7,
+      "name": "芝麻菜圣达涅火腿沙拉",
+      "slug": "arugula-san-daniele-ham-salad",
+      "old": "/menu-images/fresh-salads.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Arugula & San Daniele Ham Salad (芝麻菜圣达涅火腿沙拉). Exact menu description: Peppery arugula paired with savory San Daniele ham. 芝麻菜搭配圣达涅火腿，咸香清爽。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "arugula-san-daniele-ham-salad.jpg"
+    },
+    {
+      "id": 8,
+      "name": "培根土豆泥沙拉",
+      "slug": "bacon-mashed-potato-salad",
+      "old": "/menu-images/fresh-salads.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Bacon Mashed Potato Salad (培根土豆泥沙拉). Exact menu description: Creamy mashed potato finished with crisp, savory bacon. 绵密土豆泥搭配香脆培根，口感浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "bacon-mashed-potato-salad.jpg"
+    },
+    {
+      "id": 9,
+      "name": "火炙焦糖三文鱼吐司",
+      "slug": "torched-caramel-salmon-toast",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Torched Caramel Salmon Toast (火炙焦糖三文鱼吐司). Exact menu description: Torched salmon on toasted bread with caramelized aroma and tender texture. 火炙三文鱼铺于香烤吐司，焦香与鲜嫩交织。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "torched-caramel-salmon-toast.jpg"
+    },
+    {
+      "id": 10,
+      "name": "香煎鹅肝佐苹果泥配蔓越莓酱",
+      "slug": "pan-seared-foie-gras-with-apple-pur-e-cranberry-sauce",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Pan-Seared Foie Gras with Apple Purée & Cranberry Sauce (香煎鹅肝佐苹果泥配蔓越莓酱). Exact menu description: Pan-seared foie gras balanced with apple purée and cranberry sauce. 香煎鹅肝搭配苹果泥与蔓越莓酱，丰润而不失清甜。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "pan-seared-foie-gras-with-apple-pur-e-cranberry-sauce.jpg"
+    },
+    {
+      "id": 11,
+      "name": "金枪鱼可颂",
+      "slug": "tuna-croissant",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Tuna Croissant (金枪鱼可颂). Exact menu description: A flaky croissant filled with a light and savory tuna mixture. 酥香可颂夹入金枪鱼馅料，轻盈可口。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "tuna-croissant.jpg"
+    },
+    {
+      "id": 12,
+      "name": "牛油果培根滑蛋吐司",
+      "slug": "avocado-bacon-scrambled-egg-toast",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Avocado, Bacon & Scrambled Egg Toast (牛油果培根滑蛋吐司). Exact menu description: Avocado, bacon and soft scrambled egg layered on toasted bread. 牛油果、培根与滑蛋铺于吐司，层次丰富。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "avocado-bacon-scrambled-egg-toast.jpg"
+    },
+    {
+      "id": 13,
+      "name": "松露薯条",
+      "slug": "truffle-fries",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Truffle Fries (松露薯条). Exact menu description: Golden fries tossed with aromatic truffle seasoning. 金黄薯条拌入松露风味，外酥内软。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "truffle-fries.jpg"
+    },
+    {
+      "id": 14,
+      "name": "西班牙橄榄油蒜香煎虾",
+      "slug": "spanish-garlic-shrimp-saut-ed-in-olive-oil",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Spanish Garlic Shrimp Sautéed in Olive Oil (西班牙橄榄油蒜香煎虾). Exact menu description: Prawns sautéed with olive oil and garlic in a Spanish-inspired style. 鲜虾以橄榄油和蒜香煎制，鲜香浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "spanish-garlic-shrimp-saut-ed-in-olive-oil.jpg"
+    },
+    {
+      "id": 15,
+      "name": "脆炸鱿鱼须",
+      "slug": "crispy-fried-squid-tentacles",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Crispy Fried Squid Tentacles (脆炸鱿鱼须). Exact menu description: Squid tentacles fried until crisp outside and tender within. 鱿鱼须酥炸至金黄，外脆里嫩。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "crispy-fried-squid-tentacles.jpg"
+    },
+    {
+      "id": 16,
+      "name": "火腿芝士丸",
+      "slug": "ham-cheese-balls",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Ham & Cheese Balls (火腿芝士丸). Exact menu description: Crisp bite-sized balls filled with savory ham and cheese. 火腿与芝士制成酥香小丸，咸香浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "ham-cheese-balls.jpg"
+    },
+    {
+      "id": 17,
+      "name": "芝士焗蘑菇",
+      "slug": "baked-mushrooms-with-cheese",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Baked Mushrooms with Cheese (芝士焗蘑菇). Exact menu description: Mushrooms baked under melted cheese for a rich savory bite. 蘑菇覆以芝士焗烤，鲜香拉丝。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "baked-mushrooms-with-cheese.jpg"
+    },
+    {
+      "id": 18,
+      "name": "松露菌菇塔塔",
+      "slug": "truffle-mushroom-tartare",
+      "old": "/menu-images/snacks-toasts.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Truffle Mushroom Tartare (松露菌菇塔塔). Exact menu description: Finely chopped mushrooms finished with aromatic truffle. 细切菌菇融入松露香气，口感细腻。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "truffle-mushroom-tartare.jpg"
+    },
+    {
+      "id": 20,
+      "name": "法式迷迭香煎羊排",
+      "slug": "pan-fried-lamb-chops-with-rosemary",
+      "old": "/menu-images/signature-mains.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Pan-Fried Lamb Chops with Rosemary (法式迷迭香煎羊排). Exact menu description: Lamb chops pan-fried with rosemary until caramelized outside and tender within. 羊排配迷迭香香煎，肉香浓郁、外焦里嫩。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "pan-fried-lamb-chops-with-rosemary.jpg"
+    },
+    {
+      "id": 21,
+      "name": "澳洲谷饲M3+肉眼牛排",
+      "slug": "australian-grain-fed-m3-ribeye-steak",
+      "old": "/menu-images/signature-mains.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Australian Grain-Fed M3+ Ribeye Steak (澳洲谷饲M3+肉眼牛排). Exact menu description: Australian grain-fed M3+ ribeye with rich marbling and full beef flavor. 澳洲谷饲M3+肉眼牛排，油花丰润、肉香饱满。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "australian-grain-fed-m3-ribeye-steak.jpg"
+    },
+    {
+      "id": 22,
+      "name": "澳洲谷饲M3+西冷牛排",
+      "slug": "australian-grain-fed-m3-sirloin-steak",
+      "old": "/menu-images/signature-mains.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Australian Grain-Fed M3+ Sirloin Steak (澳洲谷饲M3+西冷牛排). Exact menu description: Australian grain-fed M3+ sirloin with a firm bite and pronounced beef flavor. 澳洲谷饲M3+西冷牛排，肉质紧实、香气浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "australian-grain-fed-m3-sirloin-steak.jpg"
+    },
+    {
+      "id": 23,
+      "name": "香煎三文鱼排",
+      "slug": "pan-seared-salmon-fillet",
+      "old": "/menu-images/signature-mains.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Pan-Seared Salmon Fillet (香煎三文鱼排). Exact menu description: Salmon fillet pan-seared for a crisp surface and tender, juicy center. 三文鱼煎至表面焦香，鱼肉柔嫩多汁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "pan-seared-salmon-fillet.jpg"
+    },
+    {
+      "id": 24,
+      "name": "德式风味香肠拼盘（配土豆泥、酸菜、酸黄瓜）",
+      "slug": "german-sausage-platter",
+      "old": "/menu-images/signature-mains.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: German Sausage Platter (德式风味香肠拼盘（配土豆泥、酸菜、酸黄瓜）). Exact menu description: German sausages served with mashed potato, sauerkraut and pickles. 德式香肠搭配土豆泥、酸菜与酸黄瓜，咸香丰盛。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "german-sausage-platter.jpg"
+    },
+    {
+      "id": 25,
+      "name": "奶油松露菌菇意面",
+      "slug": "creamy-truffle-mushroom-pasta",
+      "old": "/menu-images/pasta-risotto.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Creamy Truffle Mushroom Pasta (奶油松露菌菇意面). Exact menu description: Pasta and mushrooms coated in a creamy, aromatic truffle sauce. 奶油酱包裹意面与菌菇，松露香气馥郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "creamy-truffle-mushroom-pasta.jpg"
+    },
+    {
+      "id": 26,
+      "name": "经典肉酱意面",
+      "slug": "classic-bolognese-pasta",
+      "old": "/menu-images/pasta-risotto.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Classic Bolognese Pasta (经典肉酱意面). Exact menu description: Pasta served with a rich, slow-cooked classic Bolognese sauce. 慢煮肉酱搭配意面，浓郁经典。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "classic-bolognese-pasta.jpg"
+    },
+    {
+      "id": 27,
+      "name": "热那亚罗勒青酱意面",
+      "slug": "genoese-basil-pesto-pasta",
+      "old": "/menu-images/pasta-risotto.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Genoese Basil Pesto Pasta (热那亚罗勒青酱意面). Exact menu description: Pasta tossed with fragrant Genoese basil pesto. 罗勒青酱拌入意面，草本清香明亮。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "genoese-basil-pesto-pasta.jpg"
+    },
+    {
+      "id": 28,
+      "name": "培根菌菇芝士烩饭",
+      "slug": "bacon-mushroom-cheese-risotto",
+      "old": "/menu-images/pasta-risotto.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Bacon, Mushroom & Cheese Risotto (培根菌菇芝士烩饭). Exact menu description: Creamy risotto enriched with bacon, mushrooms and cheese. 培根、菌菇与芝士融入奶香烩饭，绵密醇厚。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "bacon-mushroom-cheese-risotto.jpg"
+    },
+    {
+      "id": 29,
+      "name": "传统西班牙海鲜饭（两人份）",
+      "slug": "traditional-spanish-seafood-paella",
+      "old": "/menu-images/spanish-paella.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Traditional Spanish Seafood Paella (传统西班牙海鲜饭（两人份）). Exact menu description: Saffron rice with assorted seafood, prepared as a generous two-person paella. 藏红花米饭搭配丰富海鲜，适合两人分享。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "traditional-spanish-seafood-paella.jpg"
+    },
+    {
+      "id": 30,
+      "name": "西班牙墨鱼汁海鲜饭（两人份）",
+      "slug": "spanish-squid-ink-seafood-paella",
+      "old": "/menu-images/spanish-paella.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Spanish Squid Ink Seafood Paella (西班牙墨鱼汁海鲜饭（两人份）). Exact menu description: Squid-ink rice with assorted seafood, served as a bold two-person paella. 墨鱼汁米饭搭配丰富海鲜，鲜味浓郁，适合两人分享。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "spanish-squid-ink-seafood-paella.jpg"
+    },
+    {
+      "id": 31,
+      "name": "榴莲多多披萨",
+      "slug": "durian-supreme-pizza",
+      "old": "/menu-images/fresh-baked-pizza.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Durian Supreme Pizza (榴莲多多披萨). Exact menu description: Fresh-baked pizza generously topped with rich, creamy durian. 榴莲果肉铺满现烤披萨，香甜浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "durian-supreme-pizza.jpg"
+    },
+    {
+      "id": 32,
+      "name": "意大利萨拉米披萨",
+      "slug": "italian-salami-pizza",
+      "old": "/menu-images/fresh-baked-pizza.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Italian Salami Pizza (意大利萨拉米披萨). Exact menu description: Fresh-baked thin-crust pizza topped with Italian salami and cheese. 萨拉米与芝士搭配现烤薄底，咸香浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "italian-salami-pizza.jpg"
+    },
+    {
+      "id": 33,
+      "name": "奶黄香芒披萨",
+      "slug": "custard-mango-pizza",
+      "old": "/menu-images/fresh-baked-pizza.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Custard & Mango Pizza (奶黄香芒披萨). Exact menu description: Creamy custard and fragrant mango on a fresh-baked pizza base. 奶黄与香芒组合，香甜柔滑。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "custard-mango-pizza.jpg"
+    },
+    {
+      "id": 34,
+      "name": "榴芒披萨",
+      "slug": "durian-mango-pizza",
+      "old": "/menu-images/fresh-baked-pizza.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Durian & Mango Pizza (榴芒披萨). Exact menu description: Durian and mango combine for a rich, fruit-forward dessert pizza. 榴莲与芒果双重果香，甜润浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "durian-mango-pizza.jpg"
+    },
+    {
+      "id": 35,
+      "name": "墨鱼汁海鲜披萨",
+      "slug": "squid-ink-seafood-pizza",
+      "old": "/menu-images/fresh-baked-pizza.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Squid Ink Seafood Pizza (墨鱼汁海鲜披萨). Exact menu description: Squid-ink pizza topped with prawns and squid for a distinctive seafood flavor. 墨鱼汁饼底搭配鲜虾与鱿鱼，海味鲜明。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "squid-ink-seafood-pizza.jpg"
+    },
+    {
+      "id": 36,
+      "name": "松露野菌火焰薄饼",
+      "slug": "truffle-wild-mushroom-flamed-flatbread",
+      "old": "/menu-images/fresh-baked-pizza.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Truffle & Wild Mushroom Flamed Flatbread (松露野菌火焰薄饼). Exact menu description: Flamed flatbread topped with wild mushrooms and aromatic truffle. 野菌与松露铺于火焰薄饼，菌香浓郁。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "truffle-wild-mushroom-flamed-flatbread.jpg"
+    },
+    {
+      "id": 37,
+      "name": "帕尔马火腿火焰薄饼",
+      "slug": "parma-ham-flamed-flatbread",
+      "old": "/menu-images/fresh-baked-pizza.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Parma Ham Flamed Flatbread (帕尔马火腿火焰薄饼). Exact menu description: Fresh flamed flatbread finished with delicate Parma ham. 帕尔马火腿搭配现烤火焰薄饼，咸香轻盈。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "parma-ham-flamed-flatbread.jpg"
+    },
+    {
+      "id": 38,
+      "name": "焦糖洋葱牛肉帕尼尼",
+      "slug": "caramelized-onion-beef-panini",
+      "old": "/menu-images/panini-burgers.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Caramelized Onion Beef Panini (焦糖洋葱牛肉帕尼尼). Exact menu description: Pressed panini filled with beef and sweet-savory caramelized onions. 牛肉与焦糖洋葱夹入压烤面包，香甜咸香。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "caramelized-onion-beef-panini.jpg"
+    },
+    {
+      "id": 39,
+      "name": "青酱烤鸡胸帕尼尼",
+      "slug": "pesto-grilled-chicken-panini",
+      "old": "/menu-images/panini-burgers.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Pesto Grilled Chicken Panini (青酱烤鸡胸帕尼尼). Exact menu description: Grilled chicken breast paired with fragrant basil pesto in a pressed panini. 烤鸡胸搭配罗勒青酱，清香柔嫩。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "pesto-grilled-chicken-panini.jpg"
+    },
+    {
+      "id": 40,
+      "name": "经典纯牛肉汉堡",
+      "slug": "classic-beef-burger",
+      "old": "/menu-images/panini-burgers.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual restaurant menu photograph. Dish: Classic Beef Burger (经典纯牛肉汉堡). Exact menu description: A pure beef patty with fresh vegetables in a soft classic burger bun. 纯牛肉饼搭配新鲜蔬菜与柔软面包，经典满足。. Show ONLY this single dish, all named ingredients clearly recognizable, realistic appetizing restaurant portion. One serving vessel centered, entire dish visible with comfortable margins, three-quarter overhead view, landscape 4:3 framing. Warm natural window light, dark walnut bistro table, understated neutral ceramic tableware, realistic food textures. No other dishes, no collage, no text, no logo, no watermark. Food must strictly match the dish name and description.",
+      "file": "classic-beef-burger.jpg"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+"""
+文件名称：enums.py
+文件用途：统一定义核心业务状态值
+主要职责：集中维护订单、支付、库存、门店、菜单、角色和日志状态
+所属业务模块：后端通用模块
+创建时间：2026-05-22 14:05
+最近修改时间：2026-10-09 14:06
+修改人：Project Maintainers
+"""
+
+ORDER_STATUS_PENDING_PAYMENT = "pending_payment"
+ORDER_STATUS_PAID = "paid"
+ORDER_STATUS_ACCEPTED = "accepted"
+ORDER_STATUS_PREPARING = "preparing"
+ORDER_STATUS_READY = "ready"
+ORDER_STATUS_COMPLETED = "completed"
+ORDER_STATUS_CANCELED = "canceled"
+ORDER_STATUS_REFUND_PENDING = "refund_pending"
+ORDER_STATUS_REFUNDED = "refunded"
+
+PAYMENT_STATUS_PENDING = "pending"
+PAYMENT_STATUS_PROCESSING = "processing"
+PAYMENT_STATUS_SUCCEEDED = "succeeded"
+PAYMENT_STATUS_FAILED = "failed"
+PAYMENT_STATUS_CANCELED = "canceled"
+PAYMENT_STATUS_EXPIRED = "expired"
+
+PAYMENT_METHOD_WECHAT = "wechat"
+PAYMENT_METHOD_ALIPAY = "alipay"
+PAYMENT_METHOD_BANK_CARD = "bank_card"
+
+STORE_STATUS_OPEN = "open"
+STORE_STATUS_CLOSED = "closed"
+STORE_STATUS_TEMPORARILY_CLOSED = "temporarily_closed"
+
+MENU_STATUS_PUBLISHED = "published"
+MENU_STATUS_DRAFT = "draft"
+MENU_STATUS_DRAFT_CHANGES = "draft_changes"
+MENU_STATUS_ARCHIVED = "archived"
+
+USER_TYPE_CUSTOMER = "customer"
+USER_TYPE_STAFF = "staff"
+USER_TYPE_ADMIN = "admin"
+
+ROLE_STORE_STAFF = "store_staff"
+ROLE_STORE_MANAGER = "store_manager"
+ROLE_BRAND_ADMIN = "brand_admin"
+ROLE_SYSTEM_ADMIN = "system_admin"
+
+INVENTORY_CHANGE_RESERVE = "reserve"
+INVENTORY_CHANGE_CONFIRM_DEDUCT = "confirm_deduct"
+INVENTORY_CHANGE_RELEASE = "release"
+INVENTORY_CHANGE_MANUAL_ADJUST = "manual_adjust"
+INVENTORY_CHANGE_REFUND_RESTORE = "refund_restore"
+
+COUPON_STATUS_SYNCING = "syncing"
+COUPON_STATUS_AVAILABLE = "available"
+COUPON_STATUS_USED = "used"
+COUPON_STATUS_EXPIRED = "expired"
+COUPON_STATUS_ABNORMAL = "abnormal"
+
+COUPON_TASK_PENDING = "pending"
+COUPON_TASK_PROCESSING = "processing"
+COUPON_TASK_SUCCEEDED = "succeeded"
+COUPON_TASK_FAILED = "failed"
+COUPON_TASK_DEAD = "dead"
+
+ORDER_TRIGGER_CUSTOMER = "customer"
+ORDER_TRIGGER_STORE_STAFF = "store_staff"
+ORDER_TRIGGER_STORE_MANAGER = "store_manager"
+ORDER_TRIGGER_PAYMENT_CALLBACK = "payment_callback"
+ORDER_TRIGGER_SYSTEM = "system"
+
+PAYMENT_EVENT_CREATED = "created"
+PAYMENT_EVENT_CALLBACK = "callback"
+PAYMENT_EVENT_DUPLICATE = "duplicate"
+PAYMENT_EVENT_CANCELED = "callback"
+PAYMENT_EVENT_EXPIRED = "timeout"
+PAYMENT_EVENT_FAILED = "callback"
+PAYMENT_EVENT_REFUND = "callback"
+PAYMENT_EVENT_RETRY = "retry"
+
+OPERATION_RESULT_SUCCESS = "success"
+OPERATION_RESULT_REJECTED = "rejected"
